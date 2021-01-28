@@ -1,0 +1,6 @@
+public class first{
+        public viod static main(String[] args){
+	System.out.println("lll");
+        }
+
+}
